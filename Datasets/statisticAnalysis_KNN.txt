@@ -1,0 +1,38 @@
+Violent Crime:
+   p-value        coefficient                          feature
+2.682445e-15        0.0077                        Transit_Proximity
+7.785141e-14        0.1587                       Housing_Violations
+1.193046e-12       -0.0002                             Housing_Size
+3.207969e-10        0.2706                      Street_Connectivity
+1.056095e-06        0.0075                  Commercial_Building_Age
+2.198735e-06       -0.0432                   Residential_Renovation
+2.775231e-05        0.0000                    Commercial_Size_Total
+7.383878e-04       -0.0004                  Transit_Proximate_Units
+2.093399e-03        0.0000                          Commercial_Size
+2.098300e-03        0.0045                              Housing_Age
+
+Property Crime:
+   p-value        coefficient                          feature
+7.369648e-26       -0.0036                       Impervious_Surface
+1.386598e-11        0.0060                        Transit_Proximity
+8.646858e-07        0.1955                      Street_Connectivity
+1.235355e-06        0.0051                       Pharmacy_Proximity
+7.325758e-06        0.0064                  Commercial_Building_Age
+1.389991e-05        0.1013                             Foreclosures
+3.342581e-05        0.0057                              Housing_Age
+8.802664e-05        0.0082                              Vacant_Land
+5.220793e-04        0.0005                            Housing_Units
+9.863707e-04        0.0000                          Commercial_Size
+
+Combined Crime:
+   p-value        coefficient                          feature
+1.488596e-13        0.0000                    Commercial_Size_Total
+1.854704e-13       -0.0554                       Impervious_Surface
+7.148306e-09        0.1152                        Transit_Proximity
+5.389120e-08        0.2531                              Vacant_Land
+1.321217e-04       -0.0082                  Transit_Proximate_Units
+1.697635e-04        0.1146                              Housing_Age
+4.012356e-04       -0.0077                         Vacant_Land_Area
+1.868485e-03       -0.0761                    Single_Family_Housing
+1.952099e-03       -1.2987                          Housing_Density
+6.346192e-03       -0.5131                   Residential_Renovation
